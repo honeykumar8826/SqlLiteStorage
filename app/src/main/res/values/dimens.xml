@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shape_corner_radius">25dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xlarge">16dp</dimen>
+    <dimen name="spacing_large">10dp</dimen>
+    <dimen name="size_2xlarge">18sp</dimen>
+    <dimen name="spacing_3xlarge">20dp</dimen>
+    <dimen name="bottom_view_height">10dp</dimen>
+    <dimen name="card_height">70dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+</resources>

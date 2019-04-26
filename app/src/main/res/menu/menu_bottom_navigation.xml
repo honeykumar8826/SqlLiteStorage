@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/recent"
+        android:title="@null"
+        android:icon="@drawable/ic_history_black_24dp"/>
+    <item android:id="@+id/fav"
+        android:title="@string/favourites"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item android:id="@+id/near_sign"
+        android:title="@string/nearby"
+        android:icon="@drawable/ic_pin_drop_black_24dp"/>
+    <item android:id="@+id/recent1"
+        android:title="@string/recent"
+        android:icon="@drawable/ic_history_black_24dp"/>
+   <item android:id="@+id/fav1"
+        android:title="@string/favourites"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+
+    <!--<item android:id="@+id/more"-->
+        <!--android:title="@string/more"-->
+        <!--android:icon="@drawable/ic_more_vert_black_24dp"/>-->
+</menu>

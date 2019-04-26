@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SqlLiteStorage</string>
+    <string name="terms_conditions">By SigningUp you agree our </string>
+    <string name="button_create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="edit_mode">Edit Mode</string>
+    <string name="login">Login</string>
+    <string name="signUp">SignUp</string>
+    <string name="update_account">Update Account</string>
+    <string name="textView">TextView</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="building">building</string>
+    <string name="remember_me">Remember me</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="content_provider">Content Provider</string>
+    <string name="search">Search</string>
+    <string name="recent">Recent</string>
+    <string name="favourites">Favourites</string>
+    <string name="nearby">NearBy</string>
+    <string name="more">More</string>
+</resources>
